@@ -8,4 +8,4 @@ matplotlib
 seaborn
 uuid
 plotly
-pytesseract pillow
+pytesseract 
