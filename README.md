@@ -66,6 +66,7 @@ Edit
 streamlit run App.py
 
  Sample Screenshots
+![Dashboard Screenshot](Screenshot27.png)
 
  Example Use Cases
 Educational tool for fraud analytics training
